@@ -162,7 +162,18 @@
     </form>
 </div>
 
-<?php include("Includes/footer.html");?>
+<footer>
+    <div class="info">
+        <h2>Hours of Operation</h2>
+        <p>Mon-Friday 10AM-7PM</p>
+        <p>Saturday-Sunday 10AM-5PM</p>
+    </div>
+    <div class="info">
+        <h2>Kennels and Veterinarians</h2>
+            <p>Recommended</p>
+            <a href="services.php">Local Services</a>
+    </div>
+</footer>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min.js"></script>
