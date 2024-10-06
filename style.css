@@ -369,4 +369,24 @@ input[type=submit]:hover {
     }
 }
 
+/* Styles for large screens (min-width: 1200px) */
+@media (min-width: 1200px) {
+    body {
+        font-size: 18px; /* Larger font size */
+    }
+
+    .container {
+        max-width: 1140px; /* Set a max width for the container */
+        margin: 0 auto;    /* Center the container */
+    }
+
+    .header {
+        padding: 20px;     /* Add more padding for larger screens */
+    }
+
+    .nav {
+        display: flex;     /* Use flexbox for horizontal navigation */
+        justify-content: space-between; /* Space out nav items */
+    }
+}
 
