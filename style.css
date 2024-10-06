@@ -25,11 +25,18 @@ img {
 }
 
 /* Header */
-header {
+/*header {
     background-color: rgb(144, 53, 190);
     padding-top: 30px;
     min-height: 70px;
     border-bottom: #0C0B0C 2px solid;
+}
+*/
+header .container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
 }
 
 header a {
