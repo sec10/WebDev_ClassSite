@@ -315,13 +315,13 @@ input[type=submit]:hover {
 @media only screen and (max-width: 768px) {
    
     #headerlogo {
-        text-align: center; /* For example, you can center the logo */
-        margin-bottom: 20px; /* Add some spacing below the logo if needed */
+        text-align: center; 
+        margin-bottom: 20px;
     }
 
     header nav ul {
-        flex-direction: column; /* Stack items vertically on smaller screens */
-        align-items: center; /* Center items horizontally */
+        flex-direction: column; 
+        align-items: center;
     }
 
     header nav {
