@@ -58,7 +58,7 @@ header nav ul {
 }
 
 header nav li {
-    margin-left: 20px; /* Add margin between items */
+    margin-left: 20px;
 }
 
 header a:hover {
