@@ -211,10 +211,12 @@ a:hover {
 }
 
 #map {
-        width: 60%;
-        height: 200px;
-        margin: auto;
+    width: 100%; /* Make it full-width for better responsiveness */
+    max-width: 600px; /* Optional: set a maximum width */
+    height: 200px;
+    margin: auto;
 }
+
 
 #mapheading {
     text-align: center;
