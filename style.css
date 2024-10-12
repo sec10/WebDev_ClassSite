@@ -140,6 +140,20 @@ a:hover {
 
 /* About */
 
+#about {
+    width: 100%; 
+    margin: auto; 
+    text-align: center; 
+    box-sizing: border-box;
+    padding: 20px; 
+}
+
+#staff {
+    width: 100%;
+    box-sizing: border-box; 
+    padding: 20px; 
+    text-align: center;
+}
 
 
 #stafflist td, #stafflist th {
