@@ -136,14 +136,12 @@ a:hover {
 
 
 /* About */
-#page {
-    height: 100%;
-}
 
 #about {
     width: 100%; 
     text-align: center; 
     box-sizing: border-box;
+    padding: 10%;
 }
 
 #staff {
