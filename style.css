@@ -142,13 +142,12 @@ a:hover {
     height: 100%;
     text-align: center; 
     box-sizing: border-box;
-   
 }
 
 #staff {
     width: 100%;
     box-sizing: border-box; 
-    padding: 20px; 
+    padding: 30px; 
     text-align: center;
    
 }
