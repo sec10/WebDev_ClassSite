@@ -153,15 +153,8 @@ a:hover {
    
 }
 
-#about, #staff {
-  max-width: 1200px; /* or another suitable value */
-  margin: 0 auto;
-}
-
-
 #stafflist {
-    margin: auto;
-   
+    margin: auto; 
 }
 
 
@@ -289,8 +282,6 @@ input[type=submit]:hover {
 }
 
 /*contact form */
-
-
 
 #chead {
     text-align: center;
