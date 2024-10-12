@@ -150,6 +150,7 @@ a:hover {
     box-sizing: border-box; 
     padding: 20px; 
     text-align: center;
+    display: flex;
 }
 
 #about, #staff {
@@ -160,7 +161,7 @@ a:hover {
 
 #stafflist {
     margin: auto;
-    text-align: center;
+   
 }
 
 
