@@ -11,13 +11,13 @@ body {
     line-height: 1.5;   
 }
 
-    .container {
+.container {
       min-height: 100vh; /* 100vh ensures the div is 100% of the viewport height */
       display: flex;
       align-items: center; /* Align content vertically */
       justify-content: center; /* Align content horizontally */
       
-    }
+}
 
 img {
     max-width: 100%;
