@@ -10,7 +10,6 @@ body {
     font-size: 15px;
     line-height: 1.5;   
     height: 100%;
-  
 }
 
 .container {
@@ -137,7 +136,9 @@ a:hover {
 
 
 /* About */
-
+#page {
+    height: 100%
+}
 
 #about {
     width: 100%; 
