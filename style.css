@@ -139,30 +139,7 @@ a:hover {
 
 
 /* About */
-/*#about {
-    width: 100%; 
-    margin: auto; 
-    text-align: center; 
-    box-sizing: border-box;
-    padding: 20px; 
-}
 
-#staff {
-    width: 100%;
-    box-sizing: border-box; 
-    padding: 20px; 
-    text-align: center;
-}*/
-
-#about, #staff {
-  max-width: 1200px; /* or another suitable value */
-  margin: 0 auto;
-}
-
-
-#stafflist {
-    margin: auto;
-}
 
 
 #stafflist td, #stafflist th {
