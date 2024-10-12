@@ -135,10 +135,11 @@ a:hover {
     color: #000000;
 }
 
-
+/* About */
 
 #about {
     width: 100%; 
+    height: 100%;
     margin: auto; 
     text-align: center; 
     box-sizing: border-box;
