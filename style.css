@@ -1,14 +1,22 @@
- html, body {
-      height: 100%;
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+body, html {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    background-color: #FDF1FF;
+}
 
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
     line-height: 1.5;   
+    height: 100%;
+  
+}
+
+.container {
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
 }
 
 img {
@@ -45,7 +53,7 @@ header nav {
 
 header nav ul {
     display: flex;
-    justify-content: flex-end; 
+    justify-content: flex-end; /* Align items to the end of the container */
     margin: 50px;
 }
 
@@ -127,8 +135,78 @@ a:hover {
     color: #000000;
 }
 
-/* About */
 
+/* About */
+/*#about {
+    width: 100%; 
+    margin: auto; 
+    text-align: center; 
+    box-sizing: border-box;
+    padding: 20px; 
+}
+
+#staff {
+    width: 100%;
+    box-sizing: border-box; 
+    padding: 20px; 
+    text-align: center;
+}*/
+
+#about, #staff {
+  max-width: 1200px; /* or another suitable value */
+  margin: 0 auto;
+}
+
+
+#stafflist {
+    margin: auto;
+}
+
+
+#stafflist td, #stafflist th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#stafflist tr:nth-child(even){background-color: #f2f2f2;}
+
+#stafflist th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #FFDDFF;
+    color: #000000;
+
+}
+
+/* Services Link  */
+.wrapper {  
+    width: 100%;
+}
+
+#services{
+    text-align: center;
+    margin-top: 65px;
+}
+
+#imagevet { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.vetandkennel {
+    text-decoration: underline;
+}
+
+#services a {
+    color: black;
+}
+
+#services a:hover {
+    color:#ffffff;
+}
 
 /*  Location */
 
@@ -294,8 +372,5 @@ input[type=submit]:hover {
         padding: 20px;
     }
 }
-
-
-
 
 
