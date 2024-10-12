@@ -359,6 +359,16 @@ input[type=submit]:hover {
     }
 }
 
+/* Styles for tablets */
+@media (min-width: 601px) and (max-width: 1024px) {
+    body {
+        font-size: 16px;
+    }
+    .container {
+        padding: 20px;
+    }
+}
+
 
 
 
