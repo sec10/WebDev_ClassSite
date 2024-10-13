@@ -212,7 +212,7 @@ a:hover {
 }
 
 .location {
-    margin-top: -15px;
+    margin-top: 5%;
 }
 
 #map {
@@ -220,7 +220,6 @@ a:hover {
     max-width: 600px; 
     height: 200px;
     margin: auto;
-    padding-bottom: 5%;
 }
 
 
