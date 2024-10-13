@@ -140,12 +140,11 @@ a:hover {
 #about {
     text-align: center; 
     width: 60%;
-    margin-top: 5%;
     margin: 0 auto;
 }
 
 #staff {
-     
+     padding-top: 5%;
     text-align: center;
      margin: 0 auto;  
 }
