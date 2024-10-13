@@ -206,11 +206,12 @@ a:hover {
 /*  Location */
 #mainlocation {
     height: 100%;
+    margin: 0 auto;
 }
 
 .location {
     margin-top: 5%;
-     margin: 0 auto;
+  
 }
 
 #map {
