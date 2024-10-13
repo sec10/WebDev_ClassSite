@@ -207,6 +207,9 @@ a:hover {
 }
 
 /*  Location */
+#mainlocation {
+    height: 100%;
+}
 
 .location {
     margin-top: -15px;
