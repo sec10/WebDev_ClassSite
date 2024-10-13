@@ -140,14 +140,14 @@ a:hover {
 #about {
     text-align: center; 
     box-sizing: border-box;
-   
+    height:50%;
 }
 
 #staff {
     box-sizing: border-box; 
     padding: 30px; 
     text-align: center;
-   
+    height: 50%;
 }
 
 #stafflist {
