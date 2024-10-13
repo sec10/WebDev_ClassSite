@@ -148,7 +148,9 @@ a:hover {
      margin: 0 auto;  
 }
 
-
+#stafflist {
+    margin: auto;
+}
 
 
 #stafflist td, #stafflist th {
