@@ -137,7 +137,9 @@ a:hover {
 
 /* About */
 
-
+#aboutpage {
+    height 100%;
+}
 #about {
     text-align: center; 
     box-sizing: border-box;
