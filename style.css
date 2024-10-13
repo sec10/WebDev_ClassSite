@@ -67,9 +67,10 @@ header a:hover {
 
 /* Home */
 #main {
-    height: 100%;
+    width: 80%; 
     margin: auto; 
     text-align: center; 
+    box-sizing: border-box;
     padding: 10px; 
 }
     
@@ -83,6 +84,7 @@ header a:hover {
 #main p{
     font-size: 20px;
 }
+
 
 
 
