@@ -86,9 +86,6 @@ header a:hover {
 }
 
 
-
-
-/* Pictures */
 #pictures {
     margin-top: 10px;
 }
@@ -213,6 +210,7 @@ a:hover {
 
 .location {
     margin-top: 5%;
+     margin: 0 auto;
 }
 
 #map {
