@@ -147,7 +147,7 @@ a:hover {
     box-sizing: border-box; 
     padding: 30px; 
     text-align: center;
-    height: 50%;
+    
 }
 
 #stafflist {
@@ -156,6 +156,7 @@ a:hover {
 
 
 #stafflist td, #stafflist th {
+    width: 50%;
     border: 1px solid #ddd;
     padding: 8px;
 }
