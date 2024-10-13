@@ -65,7 +65,7 @@ header a:hover {
 }
 
 
-/* Main */
+/* Home */
 #main {
     height: 100%;
     margin: auto; 
@@ -83,6 +83,8 @@ header a:hover {
 #main p{
     font-size: 20px;
 }
+
+
 
 /* Pictures */
 #pictures {
