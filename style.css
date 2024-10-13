@@ -157,9 +157,9 @@ a:hover {
 
 
 #stafflist td, #stafflist th {
-    width: 50%;
+    width: 40%;
     border: 1px solid #ddd;
-    padding: 8px;
+    padding: 10px;
 }
 
 #stafflist tr:nth-child(even){background-color: #f2f2f2;}
@@ -167,7 +167,7 @@ a:hover {
 #stafflist th {
     padding-top: 12px;
     padding-bottom: 12px;
-    text-align: left;
+    text-align: center;
     background-color: #FFDDFF;
     color: #000000;
 
