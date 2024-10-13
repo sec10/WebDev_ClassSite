@@ -146,10 +146,8 @@ a:hover {
 
 #staff {
     box-sizing: border-box; 
-    padding: 15%; 
     text-align: center;
-     margin: 0 auto;
-    
+     margin: 0 auto;  
 }
 
 #stafflist {
@@ -160,7 +158,6 @@ a:hover {
 #stafflist td, #stafflist th {
     width: 20%;
     border: 1px solid #ddd;
-    padding: 10px;
 }
 
 #stafflist tr:nth-child(even){background-color: #f2f2f2;}
