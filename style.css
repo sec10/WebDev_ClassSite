@@ -139,13 +139,14 @@ a:hover {
 
 #about {
     text-align: center; 
-    box-sizing: border-box;
     width: 50%;
+
+    
     margin: 0 auto;
 }
 
 #staff {
-    box-sizing: border-box; 
+     
     text-align: center;
      margin: 0 auto;  
 }
