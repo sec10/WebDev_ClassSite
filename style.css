@@ -136,6 +136,9 @@ a:hover {
 
 
 /* About */
+#aboutsection {
+    height: 100%;
+}
 
 #about {
     text-align: center; 
