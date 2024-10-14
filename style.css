@@ -206,6 +206,7 @@ a:hover {
 /*  Location */
 
 #mainlocation > div {
+    height: 100%;
     text-align: center; /* Center the text in each child div */
 }
 
