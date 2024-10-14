@@ -209,14 +209,12 @@ a:hover {
     text-align: center; /* Center the text in each child div */
 }
 
-
 #map {
     width: 100%; 
     max-width: 600px; 
     height: 200px;
     margin: auto;
 }
-
 
 #mapheading {
     text-align: center;
