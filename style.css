@@ -205,14 +205,10 @@ a:hover {
 
 /*  Location */
 
-#mainlocation {
-    text-align: center;
+#mainlocation > div {
+    text-align: center; /* Center the text in each child div */
 }
 
-
-.location {
-    margin-top: 5%;
-}
 
 #map {
     width: 100%; 
