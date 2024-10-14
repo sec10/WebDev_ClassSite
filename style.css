@@ -284,6 +284,10 @@ input[type=submit]:hover {
 
 /*contact form */
 
+#contacthome {
+    height: 100%;
+}
+
 #chead {
     text-align: center;
 }
