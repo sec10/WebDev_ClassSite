@@ -207,7 +207,7 @@ a:hover {
 
 #mainlocation > div {
     height: 100%;
-    text-align: center; /* Center the text in each child div */
+    text-align: center; 
 }
 
 #map {
@@ -215,6 +215,7 @@ a:hover {
     max-width: 600px; 
     height: 200px;
     margin: auto;
+    padding-bottom: 5%;
 }
 
 #mapheading {
